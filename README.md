@@ -1,4 +1,4 @@
-# onlineOrder project: A spring and Hibernate based online food ordering system.
+# OnlineOrder project: A spring and Hibernate based online food ordering system.
 
 #Implemented Rest API via Spring MVC including registration, searching food, ordering, checkout etc.
 
